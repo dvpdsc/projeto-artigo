@@ -1,8 +1,7 @@
-# projeto-artigo
+<a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=1e5ad1&width=750&lines=Sejam+bem-vindos;+ao+meu+projeto+artigo!;" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=1e5ad1&width=435&lines=Sejam+bem-vindos;+ao+meu+projeto+artigo!;..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;">
 
-🚀 Quer aprender mais sobre HTML e desenvolvimento web? Vamos explorar os segredos por trás das tags! 💡 
-<br>
-
+<h4>🚀 Quer aprender mais sobre HTML e desenvolvimento web? Vamos explorar os segredos por trás das tags! 💡  
+<br> 
 💻Descubra como criar páginas incríveis com apenas algumas linhas de código. Não perca essas dicas!
 
 <br>
